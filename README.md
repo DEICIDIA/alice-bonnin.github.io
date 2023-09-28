@@ -1,5 +1,5 @@
 # alice-bonnin.github.io
 
-- seo [ ]
-- contenu [ ]
-- retirer la saisie de mail [ ]
+- [ ] seo 
+- [ ] contenu 
+- [ ]retirer la saisie de mail 
