@@ -3,4 +3,5 @@
 - [ ] changer url
 - [ ] seo 
 - [ ] contenu 
-- [ ] retirer la saisie de mail 
+- [ ] retirer la saisie de mail
+- [ ] COUCOU
